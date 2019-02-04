@@ -1,0 +1,33 @@
+Hola,
+
+os informamos que está abierto el plazo de recepción de actividades para la cuarta edición de Opensouthcode, que se realizará en el Polo Digital de Málaga los próximos 24 y 25 de Mayo 2019
+
+Acerca de Opensouthcode
+
+Evento gratuito para promover el software/hardware libre y tecnologías abiertas que se realiza en Málaga.
+
+https://www.opensouthcode.org
+
+Realizamos peticiones de charlas y talleres en todos los campos relacionados con el software/hardware libre y tecnología abiertas, por ejemplo:
+
+* Sistemas operativos
+* Desarrollo software
+* Seguridad
+* Aspectos legales
+* Escritorio
+* Educación
+
+En esta edición vamos a realizar un especial énfasis al contenido digital producido con tecnologías abiertas en especial:
+
+* Producción de audio
+* Engines de creación de videojuegos
+* Producción de video
+* Modelado 3D
+* Lenguajes de programación, técnicas y herramientas abiertas relacionadas con el contenido digital.
+
+
+Más información: https://www.opensouthcode.org/conferences/opensouthcode2019/program/proposals
+
+Envío de propuestas: https://www.opensouthcode.org/conferences/opensouthcode2019/program/proposals/new
+
+Gracias y saludos
