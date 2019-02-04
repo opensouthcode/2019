@@ -25,6 +25,8 @@ En esta edición vamos a realizar un especial énfasis al contenido digital prod
 * Modelado 3D
 * Lenguajes de programación, técnicas y herramientas abiertas relacionadas con el contenido digital.
 
+Si quieres apoyar el evento como grupo y que tu logo aparezca en la web del evento, contacta con nosotros: info@opensouthcode.org
+
 
 Más información: https://www.opensouthcode.org/conferences/opensouthcode2019/program/proposals
 
